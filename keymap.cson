@@ -1,0 +1,4 @@
+{
+'body':
+  'cmd-shift-s': 'view:toggle-side-by-side'
+}
