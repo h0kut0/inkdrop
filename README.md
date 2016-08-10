@@ -1,3 +1,3 @@
 # Inkdrop
-Inkdrop keymap settings
+Inkdrop keymap settings  
 ~/Library/Application Support/inkdrop
