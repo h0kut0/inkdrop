@@ -1,0 +1,24 @@
+"*":
+  core:
+    devMode: false
+    flags:
+      if: true
+    mainWindow:
+      position:
+        x: -1358
+        y: 92
+      sideBar:
+        visible: true
+      size:
+        h: 788
+        w: 1308
+    themes: [
+      "github-preview"
+      "default-light-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontFamily: "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\""
+    fontSize: 16
+  preview:
+    fontSize: 16
