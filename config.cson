@@ -5,13 +5,13 @@
       if: true
     mainWindow:
       position:
-        x: -1358
-        y: 92
+        x: -1333
+        y: 130
       sideBar:
-        visible: true
+        visible: false
       size:
-        h: 788
-        w: 1308
+        h: 763
+        w: 1348
     themes: [
       "github-preview"
       "default-light-ui"
