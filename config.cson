@@ -4,8 +4,10 @@
       if: true
     mainWindow:
       position:
-        x: -121
-        y: 282
+        x: -707
+        y: 231
+      sideBar:
+        visible: false
       size:
-        h: 779
-        w: 1376
+        h: 961
+        w: 2078
