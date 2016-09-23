@@ -1,11 +1,11 @@
 # Inkdrop
 
-## Inkdrop keymap settings
+## keymap
 ```
 ~/Library/Application Support/inkdrop/keymap.cson
 ```
 
-## Inkdrop config settings
+## config
 ```
 ~/Library/Application Support/inkdrop/config.cson
 ```
