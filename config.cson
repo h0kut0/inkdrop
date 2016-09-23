@@ -5,13 +5,15 @@
       if: true
     mainWindow:
       position:
-        x: 171
-        y: 71
+        x: 69
+        y: 172
       sideBar:
-        visible: true
+        visible: false
       size:
         h: 877
         w: 1507
   editor:
     fontFamily: "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";"
+    fontSize: 14
+  preview:
     fontSize: 16
